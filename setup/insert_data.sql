@@ -1,0 +1,13 @@
+INSERT INTO orders VALUES
+(2001,'C001','Ayan Das','Kolkata','2024-02-01','Laptop','Electronics',60000,5000,55000),
+(2002,'C002','Rahul Sharma','Delhi','2024-02-02','Phone','Electronics',25000,2000,23000),
+(2003,'C003','Neha Singh','Mumbai','2024-02-02','Headphones','Accessories',4000,400,3600),
+(2004,'C001','Ayan Das','Kolkata','2024-02-05','Tablet','Electronics',20000,1000,19000),
+(2005,'C004','Ankit Verma','Bangalore','2024-02-06','Camera','Electronics',35000,3000,32000),
+(2006,'C005','Priya Mehta','Pune','2024-02-07','Smartwatch','Electronics',10000,1000,9000),
+(2007,'C006','Simran Kaur','Chandigarh','2024-02-08','Headphones','Accessories',4000,0,4000),
+(2008,'C002','Rahul Sharma','Delhi','2024-02-09','Laptop','Electronics',60000,5000,55000),
+(2009,'C007','Arjun Reddy','Hyderabad','2024-02-10','Tablet','Electronics',20000,0,20000),
+(2010,'C008','Karan Patel','Ahmedabad','2024-02-11','Camera','Electronics',35000,2000,33000),
+(2011,'C009','Meera Iyer','Chennai','2024-02-12','Headphones','Accessories',4000,500,3500),
+(2012,'C010','Vikram Joshi','Jaipur','2024-02-13','Phone','Electronics',25000,0,25000);

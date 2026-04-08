@@ -1,0 +1,5 @@
+# OS files
+.DS_Store
+
+# SQL temp files (optional)
+*.log
